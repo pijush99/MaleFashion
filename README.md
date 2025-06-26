@@ -8,12 +8,6 @@ file:///C:/Users/pijus/Pictures/MaleFashion/a.html#sellers
 
 ---
 
-
-
-# 🛒 E-Commerce Website
-
-A responsive and modern e-commerce website built using **HTML**, **CSS**, and **JavaScript**. This project simulates a shopping experience with product listings, interactive UI components, and basic cart functionality. It’s fully frontend-based and perfect for portfolio showcasing or further backend integration.
-
 ## 📸 Screenshots
 
 ![Screenshot 2025-06-26 212602](https://github.com/user-attachments/assets/7d38f0d6-3993-4d59-9b27-7f345140af63)
@@ -35,15 +29,6 @@ A responsive and modern e-commerce website built using **HTML**, **CSS**, and **
 - Clean and intuitive UI/UX
 
 ---
-
-## 🛠️ Technologies Used
-
-- **HTML5** – Markup structure
-- **CSS3** – Styling and layout (Flexbox/Grid used)
-- **JavaScript (ES6)** – DOM manipulation and interactivity
-
----
-
 
 ## 🛠️ Technologies Used
 
