@@ -4,7 +4,7 @@ A responsive and modern e-commerce website built using **HTML**, **CSS**, and **
 
 ## 🔗 Live Demo
 
-[Click here to view the live demo](#) <!-- Replace # with your GitHub Pages or hosted site link -->
+file:///C:/Users/pijus/Pictures/MaleFashion/a.html#sellers
 
 ---
 
@@ -13,24 +13,6 @@ A responsive and modern e-commerce website built using **HTML**, **CSS**, and **
 # 🛒 E-Commerce Website
 
 A responsive and modern e-commerce website built using **HTML**, **CSS**, and **JavaScript**. This project simulates a shopping experience with product listings, interactive UI components, and basic cart functionality. It’s fully frontend-based and perfect for portfolio showcasing or further backend integration.
-
-## 🔗 Live Demo
-
-[Click here to view the live demo](#) <!-- Replace # with your GitHub Pages or hosted site link -->
-
----
-
-## 📸 Screenshots
-
-# 🛒 E-Commerce Website
-
-A responsive and modern e-commerce website built using **HTML**, **CSS**, and **JavaScript**. This project simulates a shopping experience with product listings, interactive UI components, and basic cart functionality. It’s fully frontend-based and perfect for portfolio showcasing or further backend integration.
-
-## 🔗 Live Demo
-
-[Click here to view the live demo](#) <!-- Replace # with your GitHub Pages or hosted site link -->
-
----
 
 ## 📸 Screenshots
 
@@ -63,18 +45,6 @@ A responsive and modern e-commerce website built using **HTML**, **CSS**, and **
 ---
 
 
-## 🚀 Features
-
-- Responsive design for all screen sizes
-- Product listings with images, titles, prices, and categories
-- Add-to-cart functionality
-- Cart view with total calculation
-- Search and filter products
-- Smooth animations and transitions
-- Clean and intuitive UI/UX
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Markup structure
@@ -86,29 +56,14 @@ A responsive and modern e-commerce website built using **HTML**, **CSS**, and **
 ## 📁 Folder Structure
 
 
-![Product Page Screenshot](screenshots/product-page.png)
+![Screenshot 2025-06-26 212702](https://github.com/user-attachments/assets/2c88a1ba-717d-41fc-842e-f0b23148de0b)
+![Screenshot 2025-06-26 212702](https://github.com/user-attachments/assets/2c88a1ba-717d-41fc-842e-f0b23148de0b)
+
 
 ---
 
-## 🚀 Features
 
-- Responsive design for all screen sizes
-- Product listings with images, titles, prices, and categories
-- Add-to-cart functionality
-- Cart view with total calculation
-- Search and filter products
-- Smooth animations and transitions
-- Clean and intuitive UI/UX
 
----
 
-## 🛠️ Technologies Used
 
-- **HTML5** – Markup structure
-- **CSS3** – Styling and layout (Flexbox/Grid used)
-- **JavaScript (ES6)** – DOM manipulation and interactivity
-
----
-
-## 📁 Folder Structure
 
