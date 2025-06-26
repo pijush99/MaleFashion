@@ -36,10 +36,6 @@ A responsive and modern e-commerce website built using **HTML**, **CSS**, and **
 ## 📸 Screenshots
 
 ![Screenshot 2025-06-26 212602](https://github.com/user-attachments/assets/7d38f0d6-3993-4d59-9b27-7f345140af63)
-![Screenshot 2025-06-26 212602](https://github.com/user-attachments/assets/7d38f0d6-3993-4d59-9b27-7f345140af63)
-![Screenshot 2025-06-26 212602](https://github.com/user-attachments/assets/5b06549b-0317-400c-b9f9-788f906fbbc1)
-![Screenshot 2025-06-26 212602](https://github.com/user-attachments/assets/5b06549b-0317-400c-b9f9-788f906fbbc1)
-![Screenshot 2025-06-26 212702](https://github.com/user-attachments/assets/3a276b8e-166b-44ab-ab09-47a6201146f1)
 ![Screenshot 2025-06-26 212702](https://github.com/user-attachments/assets/3a276b8e-166b-44ab-ab09-47a6201146f1)
 
 
