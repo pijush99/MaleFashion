@@ -4,7 +4,7 @@ A responsive and modern e-commerce website built using **HTML**, **CSS**, and **
 
 ## 🔗 Live Demo
 
-file:///C:/Users/pijus/Pictures/MaleFashion/a.html#sellers
+file:///C:/Users/pijus/Pictures/MaleFashion/a.html
 
 ---
 
